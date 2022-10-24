@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600263330337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "185325991",
+    "id" : "7B08819A",
+    "lastKnownWriteTime" : 1600264030,
+    "last_content_update" : 1600264030845,
+    "path" : "C:/Users/user/workspaceR/Datamining/turtle_mean_2016112563_심종수.R",
+    "project_path" : "turtle_mean_2016112563_심종수.R",
+    "properties" : {
+        "cursorPosition" : "20,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

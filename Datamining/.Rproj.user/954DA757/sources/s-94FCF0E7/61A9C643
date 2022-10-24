@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595722942847.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3014744121",
+    "id" : "61A9C643",
+    "lastKnownWriteTime" : 1476154296,
+    "last_content_update" : 1476154296,
+    "path" : "C:/Users/user/workspaceR/Datamining/LDA.R",
+    "project_path" : "LDA.R",
+    "properties" : {
+        "cursorPosition" : "15,11",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
